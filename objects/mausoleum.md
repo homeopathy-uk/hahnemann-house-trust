@@ -5,6 +5,7 @@ object_description = "This is a scale replica of Hahnemann's Mausoleum in German
 object_gallery = []
 object_keywords = ["mausoleum"]
 object_name = "Replica of Hahnemann's Mausoleum"
+title = "Hahnemann's Mausoleum"
 
 +++
 This is a scale replica of Hahnemann's Mausoleum in Germany.
