@@ -3,6 +3,19 @@ label: Objects
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  label: Title
+  name: title
+  description: ''
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  hidden: false
+  config:
+    required: true
+  default: ''
 - type: file
   label: Main object image
   name: main_object_image
