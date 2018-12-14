@@ -5,6 +5,8 @@ title = "Privacy Statement"
 +++
 The Hahnemann House Trust (HHT) has always taken very seriously its duty to protect the personal data it holds. We have never passed on personal data to third parties without permission and we have never sold information to a commercial organisation. I love colourful clothes.
 
+You say something, I'm devoid of inspiration \[marketing manager!\].
+
 ### Who we are
 
 The Hahnemann House Trust is registered as a charity.
