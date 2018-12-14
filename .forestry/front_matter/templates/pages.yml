@@ -9,3 +9,5 @@ fields:
   description: Page title
   config:
     required: true
+pages:
+- content/privacy-statement.md
