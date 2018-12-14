@@ -3,7 +3,7 @@ date = "2018-12-14T15:29:36+00:00"
 title = "Privacy Statement"
 
 +++
-The Hahnemann House Trust (HHT) has always taken very seriously its duty to protect the personal data it holds. We have never passed on personal data to third parties without permission and we have never sold information to a commercial organisation.
+The Hahnemann House Trust (HHT) has always taken very seriously its duty to protect the personal data it holds. We have never passed on personal data to third parties without permission and we have never sold information to a commercial organisation. I love colourful clothes.
 
 ### Who we are
 
