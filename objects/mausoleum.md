@@ -7,3 +7,4 @@ object_keywords = ["mausoleum"]
 object_name = "Replica of Hahnemann's Mausoleum"
 
 +++
+This is a scale replica of Hahnemann's Mausoleum in Germany.
