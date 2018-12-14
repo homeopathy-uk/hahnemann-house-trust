@@ -10,4 +10,6 @@ title = "Hahnemann's Mausoleum"
 +++
 This is a scale replica in plaster, of Hahnemann's mausoleum in Germany
 
+sdfsdfsdf
+
 ![](/uploads/Hahnemann Collection - 2017 photoshoot - Inv 0172 (1).jpg)
