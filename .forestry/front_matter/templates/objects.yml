@@ -44,5 +44,3 @@ fields:
   name: object_gallery
   label: Object gallery
   description: Upload any other images for this object to create a gallery
-pages:
-- objects/mausoleum.md
