@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://demo.hahnemannhouse.org/"
 languageCode = "en-gb"
 title = "Hahnemann House Trust"
-theme = "nederburg"
+theme = "beautifulhugo"
