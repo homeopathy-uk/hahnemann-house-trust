@@ -1,0 +1,33 @@
+---
+label: Objects
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  label: Main object image
+  name: main_object_image
+  description: Upload the main (masthead) object image here
+- type: text
+  default: Name
+  label: Object name
+  name: object_name
+  description: Object title
+  config:
+    required: true
+- type: textarea
+  default: Description
+  label: Object description
+  name: object_description
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
+  description: Short object description
+- type: tag_list
+  name: object_keywords
+  label: Object keywords
+  description: Enter any keywords which loosely describe this object
+- type: image_gallery
+  name: object_gallery
+  label: Object gallery
+  description: Upload any other images for this object to create a gallery
